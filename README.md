@@ -1,5 +1,5 @@
 # IPcam video converter
-This is a handy program for downloading, combining and converting videos from an IP camera into a format that is easier to browse.
+This is a program for downloading, combining and converting videos from an IP camera into a format that is easier to browse.
 
 I wrote it for a generic camera that is used with a phone app called "CamHi" and produces video files named "AYYMMDD_hhmmss_hhmmss.264", for example "A210714_003551_003605.264". <br />
 
