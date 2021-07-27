@@ -11,7 +11,7 @@ I wrote it for a generic camera that is used with a phone app called "CamHi" and
 
 ## Installation
 This program is made for windows, and requires:
-- Python (it is written with version 3.9)
+- Python (written with version 3.9.6)
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) (pip install ffmpeg-python)
 - wget.exe in the same folder - available [here](gnuwin32.sourceforge.net/packages/wget.htm) (download -> binaries -> zip)
 - ffmpeg.exe in the same folder - available [here](https://ffmpeg.org/download.html) ("get packages and executable files")
