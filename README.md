@@ -28,7 +28,7 @@ If you have a motion-detecting camera outside, and it creates short video clips 
 ![phone app screenshot](https://github.com/Byproduct/IPCam-video-converter/blob/main/documentation/phoneapp2.png)<br />
 Browsing through thousands of videos through this phone app is practically impossible. Even if you happen to know exactly the date and time you want, it's still extremely impractical. 
 
-Download the contents of the camera on your PC, and removing directory structure with wget oughta make it easier, right?
+If you download the entire contents of the camera on your PC, and remove the directory structure, things will improve:
 ![264 files](https://github.com/Byproduct/IPCam-video-converter/blob/main/documentation/264files.png)<br />
 Better, but not quite there yet. This is still difficult to make sense of, thousands of files are difficult to browse, and the ".264" format isn't playable on most systems by default.
 
