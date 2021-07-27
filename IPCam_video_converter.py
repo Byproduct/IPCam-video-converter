@@ -33,7 +33,6 @@ if not os.path.isdir("output_videos"):
     os.mkdir("output_videos")
 
 
-
 # GUI layout - row numbers for GUI elements
 row_camera_address = 1
 row_camera_login = row_camera_address + 1
