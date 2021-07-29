@@ -47,7 +47,7 @@ You can set the default address/login/password in the config.txt file so you don
 
 Clicking the download button starts the download of all video files on the camera, skipping already existing files. It can take a long time, depending on your setup and amount of videos. A new window should pop up and the file names should indicate which day it is currently downloading.
 
-Once the download has completed, you'll see how many files you have, and how many final videos you'll end up with after processing. You can adjust this with the "merge threshold" slider. For example if the merge threshold is 15 minutes, it means that it will keep combining videos until the next video is taken 15 minutes or more after the previous video.
+Once the download has completed, you'll see how many files you have, and an estimate of how many final videos you'll end up with after processing. You can adjust this with the "merge threshold" slider. For example if the merge threshold is 15 minutes, it means that it will keep combining videos until the next video is taken 15 minutes or more after the previous video.
 
 Finally, the "process videos" button combines the videos and creates new mp4 files. A visitor in your camera will now appear in one video instead of dozens of videos. :)
 
